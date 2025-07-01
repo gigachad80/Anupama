@@ -459,18 +459,18 @@ To suggest new file categories or improvements:
 ### Approx 1 hr 31 min
 
 
-## 📞 Contact
+### 📞 Contact
 
 ### 📧 Email: pookielinuxuser@tutamail.com
-
+--- 
 ## 🤔 Why This Name?
 
 ### 💀It's better not to reveal .
-
-## 📄 License
+---
+### 📄 License
 
 ### Licensed under **MIT License**
-
+-------
 <div align = "center">
 🌟 **If this tool saves you time like it saves mine, give it a star!** 
 
