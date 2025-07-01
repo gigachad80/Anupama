@@ -16,7 +16,7 @@ set "yellow=%ESC%[33m"
 set "bold=%ESC%[1m"
 
 echo %bold%%blue%=== Batch Downloads File Organizer ===%reset%
-echo Note: Colors require ANSI support (Windows 10 build 16257+). For emojis, use Windows Terminal with a font like Segoe UI Emoji.
+echo Note: Colors require ANSI support (Windows 10 build 16257+). For emojis, use CMD.exe / Command Prompt with a font like Segoe UI Emoji.
 echo Started at: %date% %time%
 echo.
 
