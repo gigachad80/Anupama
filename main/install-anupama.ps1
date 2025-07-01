@@ -1,5 +1,5 @@
 # ANUPAMA - One-Liner PowerShell Installer
-# Run as Administrator: iex (iwr -useb "https://raw.githubusercontent.com/yourusername/anupama/main/install.ps1").Content
+# Run as Administrator: iex (iwr -useb "https://raw.githubusercontent.com/gigachad80/Anupama/main/install.ps1").Content
 
 Write-Host "🎯 === ANUPAMA PowerShell Installer ===" -ForegroundColor Cyan
 Write-Host "⚡ Installing ANUPAMA File Organizer..." -ForegroundColor Yellow
