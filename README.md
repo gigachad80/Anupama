@@ -54,7 +54,7 @@ ANUPAMA "E:\PhotoArchive\UnsortedPhotos"
 ## 🎯 Requirements
 
 - Windows 10+ (build 16257+)
-- Command Prompt / Windows Terminal
+- Command Prompt 
 - Admin privileges (for system directories)
 
 ## 📂 File Categories
@@ -409,7 +409,7 @@ set "category26_exts=.flp .ptf .logic .reason"
 ### 🎨 Colors not showing
 
 - ✅ Ensure you're using Windows 10 build 16257 or later
-- 💻 Use Windows Terminal for best compatibility
+- 💻 Use CMD.exe / Command Prompt for best compatibility
 - ⚠️ Some older Command Prompt versions may not support ANSI colors
 
 ### 🔐 Permission errors
@@ -481,7 +481,7 @@ To suggest new file categories or improvements:
 
 🌟 **If this tool saves you time like it saves mine, give it a star!** 
 
-💡 **Pro Tip**: Use Windows Terminal with "Cascadia Code" font for the best experience with emojis and colors!
+💡 **Pro Tip**: Use CMD.exe / Command Prompt with "Cascadia Code" font for the best experience with emojis and colors!
 
 🎯 **Perfect for**: Developers, content creators, system administrators, digital minimalists, and anyone who values organized workflows!
 
