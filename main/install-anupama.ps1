@@ -55,7 +55,7 @@ set "yellow=%ESC%[33m"
 set "bold=%ESC%[1m"
 
 echo %bold%%blue%=== Batch Downloads File Organizer ===%reset%
-echo Note: Colors require ANSI support (Windows 10 build 16257+). For emojis, use Windows Terminal with a font like Segoe UI Emoji.
+echo Note: Colors require ANSI support (Windows 10 build 16257+). For emojis, use CMD.exe / Command Prompt with a font like Segoe UI Emoji.
 echo Started at: %date% %time%
 echo.
 
@@ -434,8 +434,8 @@ Write-Host "   ANUPAMA                    # Organize current directory" -Foregro
 Write-Host "   ANUPAMA `"%USERPROFILE%\Downloads`"  # Organize Downloads folder" -ForegroundColor White
 Write-Host "   ANUPAMA `"D:\YourFolder`"           # Organize specific folder" -ForegroundColor White
 Write-Host ""
-Write-Host "💡 Pro Tip: Use Windows Terminal for best color and emoji support!" -ForegroundColor Cyan
-Write-Host "🛠️  If 'ANUPAMA' command not found, restart your Command Prompt/PowerShell" -ForegroundColor Yellow
+Write-Host "💡 Pro Tip: Use CMD.exe / Command Prompt for best color and emoji support!" -ForegroundColor Cyan
+Write-Host "🛠️  If 'ANUPAMA' command not found, restart your Command Prompt" -ForegroundColor Yellow
 Write-Host ""
 
 Read-Host "Press Enter to exit"
