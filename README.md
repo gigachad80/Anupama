@@ -2,10 +2,13 @@
 
 **🚀 Fast automated file organization tool for Windows.**
 
-![Version](https://img.shields.io/badge/version-v1.0-brightgreen) ![Platform](https://img.shields.io/badge/platform-Windows-blue) ![License](https://img.shields.io/badge/license-MIT-orange) ![Files](https://img.shields.io/badge/categories-51-purple)
+![Version](https://img.shields.io/badge/version-v1.0-brightgreen) ![Platform](https://img.shields.io/badge/platform-Windows-blue) ![License](https://img.shields.io/badge/license-MIT-orange) ![Files](https://img.shields.io/badge/categories-51-purple) ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 
-**[Features](#-key-features)** • **[Installation](#-quick-start)** • **[Usage](#basic-usage)** • **[Categories](#-file-categories)** • **[Workflow](#-multi-drive-workflow)** • **[Customization](#-customization)**
+---
 
+<p align="center">
+  <b><a href="#-key-features">Features</a></b> • <b><a href="#-installation">Installation</a></b> • <b><a href="#basic-usage">Usage</a></b> • <b><a href="#-file-categories">Categories</a></b> • <b><a href="#-multi-drive-workflow">Workflow</a></b> • <b><a href="#-customization">Customization</a></b>
+</p>
 ---
 
 **ANUPAMA** is a file organization tool that returns clean, organized folders for any directory, using smart categorization. 
@@ -22,7 +25,7 @@ Simple, modular architecture and is optimized for speed. **subfinder** is built 
 - 🛡️ **Safe Operation** - Non-destructive, only moves files
 - ⚡ **Global Access** - Run from anywhere via PATH
 
-## 🚀 Quick Start
+## 🚀 Installation
 
 ### Basic Usage
 ### Organize Downloads folder
@@ -423,6 +426,14 @@ set "category26_exts=.flp .ptf .logic .reason"
 - 📁 Ensure the script is named `ANUPAMA.bat` in `C:\tools\`
 
 ---
+## 💡 Why I Built This
+
+As a developer and digital enthusiast, I download **tons** of different files daily - code samples, documentation, images, videos, installers, and more. My Downloads folder was becoming a chaotic mess! 😩
+I'm someone who values **organization and minimalism** in my digital workspace. A cluttered Downloads folder not only looks unprofessional but also kills productivity when you can't find what you need.
+So I created **ANUPAMA** - a smart file organizer that automatically sorts everything into neat, logical categories. Now my Downloads folder stays clean, and I can focus on what matters most! ✨
+
+---
+
 
 ## 🤝 Contributing
 
