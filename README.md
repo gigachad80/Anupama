@@ -38,8 +38,10 @@ ANUPAMA "E:\PhotoArchive\UnsortedPhotos"
 ```
 
 ### One-Line Installation
+> [!IMPORTANT]
+> ### Run as Administrator
 ```powershell
-# Run as Administrator
+
 iex (iwr -useb "https://raw.githubusercontent.com/gigachad80/Anupama/main/install-anupama.ps1").Content
 ```
 
