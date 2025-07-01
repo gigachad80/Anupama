@@ -1,4 +1,5 @@
-# 📁 ANUPAMA - Automated File Organizer
+# 🚀 Project Name : Anupama
+_📁 ANUPAMA - Automated File Organizer_ (_**A**dvanced **N**eat **U**tility **P**rogram for **A**utomated **M**anagement **A**rrangment_)
 
 **🚀 Fast automated file organization tool for Windows.**
 
@@ -453,19 +454,31 @@ To suggest new file categories or improvements:
 
 ---
 
+## ⌚ Development Stats
+
+### Approx 1 hr 31 min
+
+
+## 📞 Contact
+
+### 📧 Email: pookielinuxuser@tutamail.com
+
+## 🤔 Why This Name?
+
+### 💀It's better not to reveal .
+
 ## 📄 License
 
-MIT
+### Licensed under **MIT License**
 
-
+<div align = "center">
 🌟 **If this tool saves you time like it saves mine, give it a star!** 
 
 💡 **Pro Tip**: Use Windows Terminal with "Cascadia Code" font for the best experience with emojis and colors!
 
 🎯 **Perfect for**: Developers, content creators, system administrators, digital minimalists, and anyone who values organized workflows!
 
----
-
 *Made with ❤️ for personal productivity and digital minimalism*
 
 **Built by someone who believes**: *A clean digital workspace leads to a clear, productive mind!* 🧠✨
+</div>
