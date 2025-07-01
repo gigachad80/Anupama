@@ -48,7 +48,7 @@ ANUPAMA "E:\PhotoArchive\UnsortedPhotos"
 > ### Run as Administrator
 ```powershell
 
-iex (iwr -useb "https://raw.githubusercontent.com/gigachad80/Anupama/main/install-anupama.ps1").Content
+[iex (iwr -useb "https://raw.githubusercontent.com/gigachad80/Anupama/main/install-anupama.ps1").Content](https://raw.githubusercontent.com/gigachad80/Anupama/main/main/install-anupama.ps1)
 ```
 
 ## 🎯 Requirements
