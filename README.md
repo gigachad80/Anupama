@@ -485,7 +485,7 @@ To suggest new file categories or improvements:
 
 <div align = "center">
 
-Made with ❤️ for personal productivity and digital minimalism
+Made with 💔 for personal productivity and digital minimalism
 
 **Built by someone who believes**: *A clean digital workspace leads to a clear, productive mind!* 🧠✨
 </div>
