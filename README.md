@@ -3,8 +3,10 @@ _📁 ANUPAMA - Automated File Organizer_ (_**A**dvanced **N**eat **U**tility **
 
 **🚀 Fast automated file organization tool for Windows.**
 
+<div align = "center">
+  
 ![Version](https://img.shields.io/badge/version-v1.0-brightgreen) ![Platform](https://img.shields.io/badge/platform-Windows-blue) ![License](https://img.shields.io/badge/license-MIT-orange) ![Files](https://img.shields.io/badge/categories-51-purple) ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
-
+</div>
 ---
 
 <p align="center">
